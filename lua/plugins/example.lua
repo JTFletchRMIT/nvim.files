@@ -112,6 +112,7 @@ return {
         "jdtls",
         "css-lsp",
         "prettier",
+        "black",
       },
     },
   },
